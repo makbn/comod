@@ -2,4 +2,4 @@
 
 ### System Diagram
 
-![module diagram](/assets/sys_diagram.svg?raw=true)
+![module diagram](/assets/sys_diagram.svg?sanitize=1)
