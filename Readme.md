@@ -11,6 +11,8 @@ Comod is an event aggregator/delegator and light function as a service context f
 
 * [Akka HTTP](https://doc.akka.io/docs/akka-http/current/introduction.html)
 * [Akka Actor](https://doc.akka.io/docs/akka/current/guide/introduction.html)
+* [Spring Boot](https://spring.io/projects/spring-boot)
+* [Spring Framwork](https://spring.io/projects/spring-framework)
 * Java 8
 
 
