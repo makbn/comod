@@ -8,7 +8,7 @@ Comod is an event aggregator/delegator and light function as a service context f
 
 ## Source
 
-The source code of Comod is in it's initial state and is available under [develop](/tree/develop) branch
+The source code of Comod is in it's initial state and is available under [develop](https://github.com/makbn/comod/tree/develop) branch
 ## Technologies
 
 * [Akka HTTP](https://doc.akka.io/docs/akka-http/current/introduction.html)
