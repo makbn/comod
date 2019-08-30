@@ -15,9 +15,9 @@ import org.springframework.statemachine.config.EnableStateMachine;
         exclude = {RepositoryRestMvcAutoConfiguration.class,
                 HibernateJpaAutoConfiguration.class},
         scanBasePackages = {"io.comod.core.server",
-                            "io.comod.core.common"})
+                "io.comod.core.common"})
 @EnableStateMachine
-public class Serv{
+public class Serv {
 
     public static void main(String[] args) {
         SpringApplication application = new SpringApplication();

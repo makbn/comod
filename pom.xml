@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
@@ -10,7 +10,8 @@
     <packaging>jar</packaging>
 
     <name>Comod</name>
-    <description>Comod is an event aggregator/delegator and light function as a service context for events!</description>
+    <description>Comod is an event aggregator/delegator and light function as a service context for events!
+    </description>
     <contributors>
         <contributor>
             <name>Mehdi Akbarian-Rastaghi</name>
@@ -62,7 +63,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-    
+
     <build>
         <resources>
             <resource>
